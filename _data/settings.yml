@@ -1,19 +1,17 @@
-analytics-id: 
+analytics-id:
 #Pages
 pages:
   - {name: 'Episodes', link: 'episodes.html'}
-  - {name: 'Patreon', link: '#'}
-  - {name: 'Shop', link: '#'}
-  - {name: 'GitHub', link: 'https://github.com/PandaSekh'}
-  - {name: 'Get This Theme', link: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
+  - {name: 'About', link: '/about/'}
+  - {name: 'Doctrine of Discovery', link: 'https://doctrineofdiscovery.org/'}
 
 social:
-  - {icon: 'instagram', type: "brand", link: '#'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
-  - {icon: 'facebook', type: "brand", link: '#'}
-  - {icon: 'youtube', type: "brand", link: '#'}  
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
-  - {icon: 'rss', type: "solid", link: "#"}
+  - {icon: 'instagram', type: "brand", link: 'https://www.instagram.com/indigenousvalues/'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/indigenousVI'}
+  - {icon: 'facebook', type: "brand", link: 'https://www.facebook.com/Doctrine-of-Discovery-115693763603203'}
+  - {icon: 'youtube', type: "brand", link: 'https://youtube.com/c/IndigenousValuesInitiative'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:info@indigenousvalues.org'}
+  - {icon: 'rss', type: "solid", link: "/feed.xml"}
 
 websites-podcast:
   - {name: 'Apple Podcast', link: '#'}
@@ -26,7 +24,7 @@ websites-podcast:
   - {name: 'Castbox', link: '#'}
   - {name: 'Overcast', link: '#'}
   - {name: 'RadioPublic', link: '#'}
-  - {name: 'Breaker', link: '#'}  
+  - {name: 'Breaker', link: '#'}
   - {name: 'RSS', link: '#'}
 
 translate-date: true #See _includes/date.html to translate the months' name
@@ -34,4 +32,4 @@ shownotes: true
 
 #Disqus
 disqus:
-  disqus_shortname: 
+  disqus_shortname:
