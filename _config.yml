@@ -3,7 +3,7 @@ title: "Mapping the Doctrine of Discovery"
 description: "A story of Extraction, Enslavement and Exploitation."
 podcast-description: "This podcast explores the history and consequences of the Doctrine of Discovery. Tracking how it was used to exploit Indigenous nations, extract natural resoruces, and  enslave peoples from around the world.
 The Doctrine of Discovery is still active in today's governments."
-url:  "http://localhost:4000" # Actual base url of the website
+url:  "https://zen-bartik-071847.netlify.app" # Actual base url of the website
 #baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Indigenous Values Initiative"
