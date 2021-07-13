@@ -1,6 +1,6 @@
 ---
 title: License
-layout: Default #default or post
+layout: default #default or post
 #categories: [Example, Jekyll]
 #type: extra # I use this to split main episodes to extra ones
 description: This work is licensed under a Creative Commons Attribution 4.0 International License.

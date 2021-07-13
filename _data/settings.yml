@@ -6,12 +6,14 @@ pages:
   - {name: 'Doctrine of Discovery', link: 'https://doctrineofdiscovery.org/'}
 
 social:
-  - {icon: 'instagram', type: "brand", link: 'https://www.instagram.com/indigenousvalues/'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/indigenousVI'}
+  - {icon: 'external-link-square-alt', type: "solid", link: 'https://doctrineofdiscovery.org'}
   - {icon: 'facebook', type: "brand", link: 'https://www.facebook.com/Doctrine-of-Discovery-115693763603203'}
-  - {icon: 'youtube', type: "brand", link: 'https://youtube.com/c/IndigenousValuesInitiative'}
   - {icon: 'envelope', type: "solid", link: 'mailto:info@indigenousvalues.org'}
   - {icon: 'rss', type: "solid", link: "/feed.xml"}
+#  - {icon: 'instagram', type: "brand", link: 'https://www.instagram.com/indigenousvalues/'}
+#  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/indigenousVI'}
+#  - {icon: 'youtube', type: "brand", link: 'https://youtube.com/c/IndigenousValuesInitiative'}
+
 
 websites-podcast:
   - {name: 'Apple Podcast', link: '#'}
