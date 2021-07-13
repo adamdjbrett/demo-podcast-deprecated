@@ -21,4 +21,10 @@ permalink: /about/
   - Hosts: Philip P. Arnold and Sandy Bigtree
   - Producers: Jordan Brady Loewen and Adam DJ Brett
 
-## [License](/license/)
+
+
+
+
+
+
+  View [License & Copyright](/license/)
