@@ -13,7 +13,7 @@ permalink: pretty
 keywords: [podcast, doctrine of discovery, Indigenous, native american, first nations]
 
 #Plugins
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jekyll-feed, jekyll-include-cache]
 
 #exclude: [_podcast.rss] #Ignore this, it will be used in case I decide to add rss feed
 
