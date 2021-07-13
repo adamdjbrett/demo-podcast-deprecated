@@ -2,6 +2,8 @@
 - change colors
 - fix fonts
 - add links to footer
+- SEO
+- favicons
 ***
 # [Jekyll Podcaster](https://jekyll-podcaster.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/249c3da6-7b23-4b57-915d-71934329e306/deploy-status)](https://jekyll-podcaster.netlify.app/)
