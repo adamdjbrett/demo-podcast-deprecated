@@ -1,7 +1,7 @@
 analytics-id:
 #Pages
 pages:
-  - {name: 'Episodes', link: 'episodes.html'}
+  - {name: 'Episodes', link: '/episodes/'}
   - {name: 'About', link: '/about/'}
   - {name: 'Doctrine of Discovery', link: 'https://doctrineofdiscovery.org/'}
 
