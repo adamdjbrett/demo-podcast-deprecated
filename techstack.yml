@@ -1,11 +1,11 @@
 repo_name: adamdjbrett/demo-podcast-deprecated
-report_id: 1d3e056fd84684e9b0c00f509de62779
+report_id: 5eb9cbcf2991b8a3a1a9f048d45a1262
 repo_type: Public
-timestamp: '2023-11-15T03:24:50+00:00'
+timestamp: '2023-12-14T10:41:10+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: master
-detected_tools_count: 10
+detected_tools_count: 11
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -45,6 +45,15 @@ tools:
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
   detection_source: Gemfile
+  last_updated_by: Adam DJ Brett
+  last_updated_on: 2021-07-12 18:52:50.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: _includes/analytics.html
   last_updated_by: Adam DJ Brett
   last_updated_on: 2021-07-12 18:52:50.000000000 Z
 - name: Jekyll
