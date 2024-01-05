@@ -1,11 +1,12 @@
 repo_name: adamdjbrett/demo-podcast-deprecated
 report_id: 1d3e056fd84684e9b0c00f509de62779
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T03:24:50+00:00'
+timestamp: '2024-01-05T08:43:01+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: master
-detected_tools_count: 10
+detected_tools_count: 11
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/adamdjbrett/demo-podcast-deprecated
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/adamdjbrett/demo-podcast-deprecated
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -35,6 +38,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/adamdjbrett/demo-podcast-deprecated
   detection_source: Repo Metadata
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
@@ -44,7 +48,18 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/adamdjbrett/demo-podcast-deprecated/blob/master/Gemfile
   detection_source: Gemfile
+  last_updated_by: Adam DJ Brett
+  last_updated_on: 2021-07-12 18:52:50.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/adamdjbrett/demo-podcast-deprecated/blob/master/_includes/analytics.html
+  detection_source: _includes/analytics.html
   last_updated_by: Adam DJ Brett
   last_updated_on: 2021-07-12 18:52:50.000000000 Z
 - name: Jekyll
@@ -56,6 +71,7 @@ tools:
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg
+  detection_source_url: https://github.com/adamdjbrett/demo-podcast-deprecated/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2021-07-13 06:33:10.000000000 Z
@@ -68,6 +84,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19149/default_b0a1033a29112f6f50b1dd3157e5fbf94dd2778a.png
+  detection_source_url: https://github.com/adamdjbrett/demo-podcast-deprecated/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2021-07-13 06:33:10.000000000 Z
@@ -80,6 +97,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19371/default_ac0591cdb829f62a4300d942f96aea1bb642351d.png
+  detection_source_url: https://github.com/adamdjbrett/demo-podcast-deprecated/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2021-07-13 06:33:10.000000000 Z
@@ -93,6 +111,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19137/default_302643c2b99caa1c440c0d4aa23d4230e1cc78e3.png
+  detection_source_url: https://github.com/adamdjbrett/demo-podcast-deprecated/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2021-07-13 06:33:10.000000000 Z
@@ -105,6 +124,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19321/default_31ccb7684f50eae9f0c40cb9965cc32299f8935e.png
+  detection_source_url: https://github.com/adamdjbrett/demo-podcast-deprecated/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2021-07-13 06:33:10.000000000 Z
@@ -118,6 +138,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19516/default_07037590725b871de29c1d2ebb4610950e953355.png
+  detection_source_url: https://github.com/adamdjbrett/demo-podcast-deprecated/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2021-07-13 06:03:06.000000000 Z
